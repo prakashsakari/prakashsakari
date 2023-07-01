@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prakashsakari
 - 👀 I’m interested in Web Development | Robotics | Fitness & Music
-- 🌱 I’m currently learning NodeJs and MongoDB
 - 💞️ I’m looking to collaborate on Web Development Projects
 
 <!---
